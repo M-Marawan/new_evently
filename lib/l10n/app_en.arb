@@ -1,0 +1,29 @@
+{
+  "language": "Language",
+  "engish": "English",
+  "arabic": "Arabic",
+  "theme": "Theme",
+  "light": "Light",
+  "dark": "Dark",
+  "home": "Home",
+  "map": "Map",
+  "love": "Love",
+  "profile": "Profile",
+  
+  "all": "All",
+  "sport": "Sport",
+  "birthday": "Birthday",
+  "meeting": "Meeting",
+  "gaming": "Gaming",
+  "eating": "Eating",
+  "holiday": "Holiday",
+  "exhibition": "Exhibition",
+  "work_shop": "Work Shop",
+  "book_club": "Book Club",
+
+  "search" : "Search for Event",
+  "cairo" : "Cairo",
+  "egypt" : "Egypt" ,
+  "welcome" : "Welcome Back"
+
+}
